@@ -1,1 +1,1 @@
-# smartinternzjobportal
+# job-portal-app
